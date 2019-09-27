@@ -1,9 +1,9 @@
 name: remote_log_elastic
-description: Persist Flutter app logs in ElasticSearch
-version: 1.0.0
+version: 1.0.1
 author: "Pedro Brasileiro <pedrobrasileiro@gmail.com>"
-homepage: http://pedro.brasileiro.nom.br
+homepage: https://github.com/pedrobrasileiro/remote_log_elastic/wiki
 repository: https://github.com/pedrobrasileiro/remote_log_elastic
+description: Persist logs of flutter applications in ElasticSearch. With a short initial setup and a direct call, you persist your log in ElasticSearch.
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
