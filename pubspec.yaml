@@ -2,7 +2,8 @@ name: remote_log_elastic
 description: Persist Flutter app logs in ElasticSearch
 version: 1.0.0
 author: "Pedro Brasileiro <pedrobrasileiro@gmail.com>"
-homepage:
+homepage: http://pedro.brasileiro.nom.br
+repository: https://github.com/pedrobrasileiro/remote_log_elastic
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -10,8 +11,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  sqflite:
-  path:
 
 dev_dependencies:
   flutter_test:
