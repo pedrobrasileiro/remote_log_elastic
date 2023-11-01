@@ -6,7 +6,7 @@ repository: https://github.com/pedrobrasileiro/remote_log_elastic
 description: Persist logs of flutter applications in ElasticSearch. With a short initial setup and a direct call, you persist your log in ElasticSearch.
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.1.0 <4.0.0"
 
 dependencies:
   flutter:
